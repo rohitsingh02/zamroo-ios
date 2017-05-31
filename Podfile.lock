@@ -1,0 +1,64 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.0.0)
+  - DropDown (1.0.1)
+  - Fuzi (1.0.0)
+  - HELargeCenterTabBarController (1.0.1)
+  - ImageSlideshow/AFURL (0.5.1):
+    - AFNetworking (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (0.5.1)
+  - Kingfisher (3.0.1)
+  - NVActivityIndicatorView (2.12)
+  - SCLAlertView (0.6.0)
+  - SkyFloatingLabelTextField (1.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - DropDown
+  - Fuzi (~> 1.0.0)
+  - HELargeCenterTabBarController
+  - ImageSlideshow/AFURL
+  - Kingfisher (~> 3.0)
+  - NVActivityIndicatorView
+  - SCLAlertView (from `https://github.com/vikmeup/SCLAlertView-Swift`)
+  - SkyFloatingLabelTextField (~> 1.0)
+
+EXTERNAL SOURCES:
+  SCLAlertView:
+    :git: https://github.com/vikmeup/SCLAlertView-Swift
+
+CHECKOUT OPTIONS:
+  SCLAlertView:
+    :commit: ac3d58970d785da0755049a28eca193893c142d0
+    :git: https://github.com/vikmeup/SCLAlertView-Swift
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  DropDown: 335df9e9547e97a861a60aed8448821e239d3513
+  Fuzi: e88177b7cfdf3aa2b828c096c73551232a7f5c72
+  HELargeCenterTabBarController: 9925faa5ea71318bd145a1891e6ad5c1be63ac8a
+  ImageSlideshow: 933e24f8767948b27a81d40c0b616afb724120e3
+  Kingfisher: d5a491b45ea453d90a31bd2c0831d5243e73a73f
+  NVActivityIndicatorView: de8be03826726ad99cdfacf7fe09e88cbfeef911
+  SCLAlertView: 0f6b3c23a48b4993564ff1dd3c065782e4b2b687
+  SkyFloatingLabelTextField: 3f6610aded18e778df5cfab3b9e12a11b3e014e9
+
+PODFILE CHECKSUM: 918142c7e9e29de11ae466ea0710cd0a66475e4f
+
+COCOAPODS: 1.0.1

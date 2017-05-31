@@ -1,0 +1,52 @@
+{
+  "top_city": [
+    {
+      "city_id": "441",
+      "city_name": "Bangalore",
+      "state_name": "Karnataka",
+      "state_id": "17"
+    },
+    {
+      "city_id": "1145",
+      "city_name": "Chennai",
+      "state_name": "Tamil Nadu",
+      "state_id": "31"
+    },
+    {
+      "city_id": "1328",
+      "city_name": "Delhi",
+      "state_name": "Delhi",
+      "state_id": "10"
+    },
+    {
+      "city_id": "379",
+      "city_name": "Gurgaon",
+      "state_name": "Haryana",
+      "state_id": "13"
+    },
+    {
+      "city_id": "35",
+      "city_name": "Hyderabad",
+      "state_name": "Telangana",
+      "state_id": "36"
+    },
+    {
+      "city_id": "1278",
+      "city_name": "Kolkata",
+      "state_name": "West Bengal",
+      "state_id": "35"
+    },
+    {
+      "city_id": "713",
+      "city_name": "Mumbai",
+      "state_name": "Maharashtra",
+      "state_id": "21"
+    },
+    {
+      "city_id": "745",
+      "city_name": "Pune",
+      "state_name": "Maharashtra",
+      "state_id": "21"
+    }
+  ]
+}

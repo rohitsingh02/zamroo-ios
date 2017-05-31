@@ -1,0 +1,1258 @@
+{
+  "category": [
+    {
+      "category_id": "1",
+      "category_name": "Mobiles & Tablets",
+      "image": "icn_mobiles.gif",
+      "status": "0",
+      "sub_category_image": "banner_mobile.png",
+      "sub_category": [
+        {
+          "sub_category_id": "1",
+          "sub_category_name": "Mobile",
+          "category_id": "1",
+          "category_name": "Mobiles & Tablets"
+        },
+        {
+          "sub_category_id": "2",
+          "sub_category_name": "Tablets",
+          "category_id": "1",
+          "category_name": "Mobiles & Tablets"
+        },
+        {
+          "sub_category_id": "3",
+          "sub_category_name": "Accessories",
+          "category_id": "1",
+          "category_name": "Mobiles & Tablets"
+        }
+      ]
+    },
+    {
+      "category_id": "2",
+      "category_name": "Electronics & Computers",
+      "image": "icn_computers.png",
+      "status": "0",
+      "sub_category_image": "elctrncscomputr.jpg",
+      "sub_category": [
+ 
+        {
+          "sub_category_id": "14",
+          "sub_category_name": "Laptops & Computers",
+          "category_id": "2",
+          "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "15",
+          "sub_category_name": "Computer Peripherals",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "16",
+          "sub_category_name": "TV & Accessories",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "18",
+          "sub_category_name": "Camera",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "21",
+          "sub_category_name": "Office Equipment & Supplies",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "17",
+          "sub_category_name": "Audio & Video",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "19",
+          "sub_category_name": "Camera Accessories",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "20",
+          "sub_category_name": "Gaming & Consoles",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "22",
+          "sub_category_name": "Security Camera & Accessories",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "23",
+          "sub_category_name": "UPS, Inverter & Generator",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        },
+        {
+          "sub_category_id": "24",
+          "sub_category_name": "Other Equipments",
+                       "category_id": "2",
+                       "category_name": "Electronics & Computers"
+        }
+      ]
+    },
+    {
+      "category_id": "3",
+      "category_name": "Real Estate",
+      "image": "icn_realestate.gif",
+      "status": "0",
+      "sub_category_image": "realestatebanner.jpg",
+      "sub_category": [
+      
+        {
+          "sub_category_id": "44",
+          "sub_category_name": "Houses, Apartments for Rent",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        },
+        {
+          "sub_category_id": "45",
+          "sub_category_name": "Houses, Apartments for Sale",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        },
+        {
+          "sub_category_id": "47",
+          "sub_category_name": "Paying Guest Accommodation",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        },
+        {
+          "sub_category_id": "48",
+          "sub_category_name": "Commercial Property for Rent",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        },
+        {
+          "sub_category_id": "46",
+          "sub_category_name": "Land & Plots for Sale",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        },
+        {
+          "sub_category_id": "49",
+          "sub_category_name": "Commercial Property for Sale",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        },
+        {
+          "sub_category_id": "50",
+          "sub_category_name": "Serviced Apartments",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        },
+        {
+          "sub_category_id": "51",
+          "sub_category_name": "Vacation Rentals",
+                       "category_id": "3",
+                       "category_name": "Real Estate"
+        }
+      ]
+    },
+    {
+      "category_id": "4",
+      "category_name": "Jobs",
+      "image": "icn_jobs.gif",
+      "status": "0",
+      "sub_category_image": "jobsbanner.jpg",
+      "sub_category": [
+     
+        {
+          "sub_category_id": "127",
+          "sub_category_name": "IT - Software Jobs",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "128",
+          "sub_category_name": "IT - Hardware Jobs",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "126",
+          "sub_category_name": "Finance, Banking & Insurance",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "129",
+          "sub_category_name": "BPO / Call centre",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "132",
+          "sub_category_name": "Recruitment, HR & Training",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "130",
+          "sub_category_name": "Healthcare Jobs",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "131",
+          "sub_category_name": "Media, Marketing & Arts",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "133",
+          "sub_category_name": "Sales, Retail & Customer Service",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "158",
+          "sub_category_name": "Secreterial, PA's & Admin",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "159",
+          "sub_category_name": "Leisure & Travel",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "160",
+          "sub_category_name": "Agricultural, Construction & Engg.",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "161",
+          "sub_category_name": "Catering & Hospitality",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "162",
+          "sub_category_name": "Security & Warehouse",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        },
+        {
+          "sub_category_id": "163",
+          "sub_category_name": "All Other Jobs",
+                       "category_id": "4",
+                       "category_name": "Jobs"
+        }
+      ]
+    },
+    {
+      "category_id": "5",
+      "category_name": "Cars & Other Vehicles",
+      "image": "icn_cars.gif",
+      "status": "0",
+      "sub_category_image": "carbanner.jpg",
+      "sub_category": [
+    
+        {
+          "sub_category_id": "4",
+          "sub_category_name": "Cars",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "5",
+          "sub_category_name": "Motorcycles",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "6",
+          "sub_category_name": "Scooters",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "11",
+          "sub_category_name": "SUVs & Vans",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "7",
+          "sub_category_name": "Bicycles",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "8",
+          "sub_category_name": "Heavy Vehicles",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "10",
+          "sub_category_name": "Tractors",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "12",
+          "sub_category_name": "Commercial - Transportation",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        },
+        {
+          "sub_category_id": "13",
+          "sub_category_name": "Spare Parts & Accessories",
+                       "category_id": "5",
+                       "category_name": "Cars & Other Vehicles"
+        }
+      ]
+    },
+    {
+      "category_id": "6",
+      "category_name": "Home & Garden",
+      "image": "icn_home-garden.gif",
+      "status": "0",
+      "sub_category_image": "homegardenbanner.jpg",
+      "sub_category": [
+      
+        {
+          "sub_category_id": "34",
+          "sub_category_name": "Home & Kitchen Appliances",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "33",
+          "sub_category_name": "Furniture - Home & Office",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "25",
+          "sub_category_name": "Air Conditioners",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "26",
+          "sub_category_name": "Refrigerators",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "30",
+          "sub_category_name": "Washing Machines",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "27",
+          "sub_category_name": "Air Coolers",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "28",
+          "sub_category_name": "Fans",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "29",
+          "sub_category_name": "Geysers",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "31",
+          "sub_category_name": "Water Purifier",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "32",
+          "sub_category_name": "Vaccum Cleaners",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "35",
+          "sub_category_name": "Home Decoratives",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "36",
+          "sub_category_name": "Microwave, Toaster & Grills",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "37",
+          "sub_category_name": "Bathroom Fittings & Repairs",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "38",
+          "sub_category_name": "Hotel and Restaurant supplies",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "39",
+          "sub_category_name": "Outdoor - Garden items",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        },
+        {
+          "sub_category_id": "40",
+          "sub_category_name": "Other Household Goods",
+                       "category_id": "6",
+                       "category_name": "Home & Garden"
+        }
+      ]
+    },
+    {
+      "category_id": "7",
+      "category_name": "Pets",
+      "image": "icn_pet.gif",
+      "status": "0",
+      "sub_category_image": "petsbanner.jpg",
+      "sub_category": [
+      
+        {
+          "sub_category_id": "52",
+          "sub_category_name": "Pets for Sale",
+                       "category_id": "7",
+                       "category_name": "Pets"
+        },
+        {
+          "sub_category_id": "53",
+          "sub_category_name": "Pets Equipments & Accessories",
+                       "category_id": "7",
+                       "category_name": "Pets"
+        },
+        {
+          "sub_category_id": "55",
+          "sub_category_name": "Pets Care & Services",
+                       "category_id": "7",
+                       "category_name": "Pets"
+        },
+        {
+          "sub_category_id": "54",
+          "sub_category_name": "Missing, Lost & Found",
+                       "category_id": "7",
+                       "category_name": "Pets"
+        },
+        {
+          "sub_category_id": "169",
+          "sub_category_name": "Cretch",
+                       "category_id": "7",
+                       "category_name": "Pets"
+        },
+        {
+          "sub_category_id": "170",
+          "sub_category_name": "Vaternity Hospital",
+                       "category_id": "7",
+                       "category_name": "Pets"
+        }
+      ]
+    },
+    {
+      "category_id": "8",
+      "category_name": "Services",
+      "image": "icn_services.gif",
+      "status": "0",
+      "sub_category_image": "servicesbanner.jpg",
+      "sub_category": [
+     
+        {
+          "sub_category_id": "115",
+          "sub_category_name": "Maids & Domestic Help",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "116",
+          "sub_category_name": "Home Improvement & Repairs",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "171",
+          "sub_category_name": "Baby Sitter / Nanny",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "121",
+          "sub_category_name": "Movers & Packers",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "117",
+          "sub_category_name": "Property & Shipping",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "118",
+          "sub_category_name": "Telecom & computers",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "119",
+          "sub_category_name": "Health & Beauty",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "120",
+          "sub_category_name": "Technicians",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "122",
+          "sub_category_name": "Catering Services",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "123",
+          "sub_category_name": "Car wash & repair ",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "124",
+          "sub_category_name": "Courier services",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "125",
+          "sub_category_name": "Personal Finance",
+                       "category_id": "8",
+                       "category_name": "Services"
+        },
+        {
+          "sub_category_id": "145",
+          "sub_category_name": "Other services",
+                       "category_id": "8",
+                       "category_name": "Services"
+        }
+      ]
+    },
+    {
+      "category_id": "9",
+      "category_name": "Clothing & Accessories",
+      "image": "icn_clothes.gif",
+      "status": "0",
+      "sub_category_image": "clothingbanner.jpg",
+      "sub_category": [
+      
+        {
+          "sub_category_id": "103",
+          "sub_category_name": "Mens",
+                       "category_id": "9",
+                       "category_name": "Clothing & Accessories"
+        },
+        {
+          "sub_category_id": "104",
+          "sub_category_name": "Womens",
+                       "category_id": "9",
+                       "category_name": "Clothing & Accessories"
+        },
+        {
+          "sub_category_id": "105",
+          "sub_category_name": "Kids",
+                       "category_id": "9",
+                       "category_name": "Clothing & Accessories"
+        },
+        {
+          "sub_category_id": "172",
+          "sub_category_name": "Accessories",
+                       "category_id": "9",
+                       "category_name": "Clothing & Accessories"
+        }
+      ]
+    },
+    {
+      "category_id": "10",
+      "category_name": "Books & Magazines",
+      "image": "icn_books.gif",
+      "status": "0",
+      "sub_category_image": "bookmagazinebanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "41",
+          "sub_category_name": "Books",
+                       "category_id": "10",
+                       "category_name": "Books & Magazines"
+        },
+        {
+          "sub_category_id": "42",
+          "sub_category_name": "CD's & DVD's",
+                       "category_id": "10",
+                       "category_name": "Books & Magazines"
+        },
+        {
+          "sub_category_id": "43",
+          "sub_category_name": "Stationary",
+                       "category_id": "10",
+                       "category_name": "Books & Magazines"
+        }
+      ]
+    },
+    {
+      "category_id": "11",
+      "category_name": "Sports & Health",
+      "image": "icn_sports.gif",
+      "status": "0",
+      "sub_category_image": "scooterbanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "95",
+          "sub_category_name": "sports equipments",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        },
+        {
+          "sub_category_id": "96",
+          "sub_category_name": "Fitness - Gym",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        },
+        {
+          "sub_category_id": "97",
+          "sub_category_name": "Vitamins & Supplements",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        },
+        {
+          "sub_category_id": "99",
+          "sub_category_name": "Health Devices",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        },
+        {
+          "sub_category_id": "98",
+          "sub_category_name": "Health Food & Drinks",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        },
+        {
+          "sub_category_id": "100",
+          "sub_category_name": "Elderly & Patient Care",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        },
+        {
+          "sub_category_id": "101",
+          "sub_category_name": "Sexual Wellness",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        },
+        {
+          "sub_category_id": "102",
+          "sub_category_name": "Beauty Products",
+                       "category_id": "11",
+                       "category_name": "Sports & Health"
+        }
+      ]
+    },
+    {
+      "category_id": "12",
+      "category_name": "Hotel & Tourism",
+      "image": "icn_hotel.gif",
+      "status": "0",
+      "sub_category_image": "hoteltourismbanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "56",
+          "sub_category_name": "Hotel",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "57",
+          "sub_category_name": "Resort",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "58",
+          "sub_category_name": "Apartment",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "65",
+          "sub_category_name": "Holiday Packages",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "59",
+          "sub_category_name": "Hostel",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "60",
+          "sub_category_name": "Motel",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "61",
+          "sub_category_name": "Holiday House",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "62",
+          "sub_category_name": "Villa",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "63",
+          "sub_category_name": "Guest House",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        },
+        {
+          "sub_category_id": "64",
+          "sub_category_name": "Travel Agents & Tour Operators",
+                       "category_id": "12",
+                       "category_name": "Hotel & Tourism"
+        }
+      ]
+    },
+    {
+      "category_id": "13",
+      "category_name": "Tutors & Coaching",
+      "image": "icn_tutors.gif",
+      "status": "0",
+      "sub_category_image": "onlinetutorbanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "66",
+          "sub_category_name": "Home Tutors",
+                       "category_id": "13",
+                       "category_name": "Tutors & Coaching"
+        },
+        {
+          "sub_category_id": "68",
+          "sub_category_name": "Coaching Institutes",
+                       "category_id": "13",
+                       "category_name": "Tutors & Coaching"
+        },
+        {
+          "sub_category_id": "69",
+          "sub_category_name": "Universities / Colleges",
+                       "category_id": "13",
+                       "category_name": "Tutors & Coaching"
+        },
+        {
+          "sub_category_id": "67",
+          "sub_category_name": "Online Tutors",
+                       "category_id": "13",
+                       "category_name": "Tutors & Coaching"
+        },
+        {
+          "sub_category_id": "150",
+          "sub_category_name": "Pre Schools",
+                       "category_id": "13",
+                       "category_name": "Tutors & Coaching"
+        },
+        {
+          "sub_category_id": "151",
+          "sub_category_name": "Schools",
+                       "category_id": "13",
+                       "category_name": "Tutors & Coaching"
+        }
+      ]
+    },
+    {
+      "category_id": "14",
+      "category_name": "Baby & Kids",
+      "image": "icn_toys.gif",
+      "status": "0",
+      "sub_category_image": "babykidsbanner.jpg",
+      "sub_category": [
+    
+        {
+          "sub_category_id": "134",
+          "sub_category_name": "Baby Clothing",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "135",
+          "sub_category_name": "Baby Footwear",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "136",
+          "sub_category_name": "Baby Gears & Toys",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "137",
+          "sub_category_name": "Prams, Strollers & Car Seats",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "141",
+          "sub_category_name": "Baby & Child Safety",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "139",
+          "sub_category_name": "Baby & Kids Furniture",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "138",
+          "sub_category_name": "Baby Carriers",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "140",
+          "sub_category_name": "Food, Bath, Skin & Healthcare",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "142",
+          "sub_category_name": "Baby Birthday & Gifts",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "143",
+          "sub_category_name": "Feeding & Nursing",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        },
+        {
+          "sub_category_id": "144",
+          "sub_category_name": "Everything else",
+                       "category_id": "14",
+                       "category_name": "Baby & Kids"
+        }
+      ]
+    },
+    {
+      "category_id": "15",
+      "category_name": "Bollywood & Entertainment",
+      "image": "icn_nightlife.gif",
+      "status": "0",
+      "sub_category_image": "bollywoodbanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "109",
+          "sub_category_name": "Audition & Casting",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "165",
+          "sub_category_name": "Acting Schools",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "110",
+          "sub_category_name": "Actor & Artist",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "168",
+          "sub_category_name": "Equipments for Sale & Hire",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "111",
+          "sub_category_name": "Model Portfolio",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "112",
+          "sub_category_name": "Fashion & Costume Designing",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "113",
+          "sub_category_name": "Cameraman & Still Photography",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "114",
+          "sub_category_name": "Sound Engineers",
+          "category_id": "15"
+        },
+        {
+          "sub_category_id": "164",
+          "sub_category_name": "Other Bollywood Positions",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "166",
+          "sub_category_name": "Nightlife Venues, Jobs",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        },
+        {
+          "sub_category_id": "167",
+          "sub_category_name": "Events & Event Management Companies",
+                       "category_id": "15",
+                       "category_name": "Bollywood & Entertainment"
+        }
+      ]
+    },
+    {
+      "category_id": "16",
+      "category_name": "Taxi & Car Rentals",
+      "image": "icn_cab.gif",
+      "status": "0",
+      "sub_category_image": "taxibanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "70",
+          "sub_category_name": "Taxi",
+                       "category_id": "16",
+                       "category_name": "Taxi & Car Rentals"
+        },
+        {
+          "sub_category_id": "71",
+          "sub_category_name": "Car Rental",
+                       "category_id": "16",
+                       "category_name": "Taxi & Car Rentals"
+        },
+        {
+          "sub_category_id": "72",
+          "sub_category_name": "Car Pooling",
+                       "category_id": "16",
+                       "category_name": "Taxi & Car Rentals"
+        },
+        {
+          "sub_category_id": "73",
+          "sub_category_name": "Car Drivers",
+                       "category_id": "16",
+                       "category_name": "Taxi & Car Rentals"
+        },
+        {
+          "sub_category_id": "74",
+          "sub_category_name": "Driving Schools",
+                       "category_id": "16",
+                       "category_name": "Taxi & Car Rentals"
+        }
+      ]
+    },
+    {
+      "category_id": "17",
+      "category_name": "Musical Instruments",
+      "image": "icn_music.gif",
+      "status": "0",
+      "sub_category_image": "musicinstrumentbanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "84",
+          "sub_category_name": "Electronics Instruments",
+                       "category_id": "17",
+                       "category_name": "Musical Instruments"
+        },
+        {
+          "sub_category_id": "85",
+          "sub_category_name": "Keyboard Instruments",
+                       "category_id": "17",
+                       "category_name": "Musical Instruments"
+        },
+        {
+          "sub_category_id": "81",
+          "sub_category_name": "Percussion Instruments - Dholak",
+                       "category_id": "17",
+                       "category_name": "Musical Instruments"
+        },
+        {
+          "sub_category_id": "82",
+          "sub_category_name": "Strings Instruments - Sitar",
+                       "category_id": "17",
+                       "category_name": "Musical Instruments"
+        },
+        {
+          "sub_category_id": "83",
+          "sub_category_name": "Wind Instruments - Flutes",
+                       "category_id": "17",
+                       "category_name": "Musical Instruments"
+        },
+        {
+          "sub_category_id": "86",
+          "sub_category_name": "Innovative Instruments",
+                       "category_id": "17",
+                       "category_name": "Musical Instruments"
+        },
+        {
+          "sub_category_id": "87",
+          "sub_category_name": "Other Musical Instruments",
+                       "category_id": "17",
+                       "category_name": "Musical Instruments"
+        }
+      ]
+    },
+    {
+      "category_id": "18",
+      "category_name": "Arts & Collectibles",
+      "image": "icn_art.gif",
+      "status": "0",
+      "sub_category_image": "artscollectiblebanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "88",
+          "sub_category_name": "Paintings",
+                       "category_id": "18",
+                       "category_name": "Arts & Collectibles"
+        },
+        {
+          "sub_category_id": "90",
+          "sub_category_name": "Collectibles",
+                       "category_id": "18",
+                       "category_name": "Arts & Collectibles"
+        },
+        {
+          "sub_category_id": "89",
+          "sub_category_name": "Antique Handicrafts",
+                       "category_id": "18",
+                       "category_name": "Arts & Collectibles"
+        },
+        {
+          "sub_category_id": "91",
+          "sub_category_name": "Decor Furnishings",
+                       "category_id": "18",
+                       "category_name": "Arts & Collectibles"
+        },
+        {
+          "sub_category_id": "92",
+          "sub_category_name": "Arts & Theatre",
+                       "category_id": "18",
+                       "category_name": "Arts & Collectibles"
+        },
+        {
+          "sub_category_id": "93",
+          "sub_category_name": "Creative Writing",
+                       "category_id": "18",
+                       "category_name": "Arts & Collectibles"
+        },
+        {
+          "sub_category_id": "94",
+          "sub_category_name": "Other Items",
+                       "category_id": "18",
+                       "category_name": "Arts & Collectibles"
+        }
+      ]
+    },
+    {
+      "category_id": "19",
+      "category_name": "Jewellery & Gems",
+      "image": "icn_jewellery.gif",
+      "status": "0",
+      "sub_category_image": "jewellerygemsbanner.jpg",
+      "sub_category": [
+      
+        {
+          "sub_category_id": "75",
+          "sub_category_name": "Jewellery",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "76",
+          "sub_category_name": "Gemstones",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "77",
+          "sub_category_name": "Rudraksha",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "78",
+          "sub_category_name": "Astro Services",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "79",
+          "sub_category_name": "Vastu services",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "80",
+          "sub_category_name": "Numerology Services",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "152",
+          "sub_category_name": "Yantra",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "153",
+          "sub_category_name": "Feng Shui",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "154",
+          "sub_category_name": "Crystal",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "155",
+          "sub_category_name": "Parad",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "156",
+          "sub_category_name": "Malas & Artificial Jewellery",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        },
+        {
+          "sub_category_id": "157",
+          "sub_category_name": "Everything else",
+                       "category_id": "19",
+                       "category_name": "Jewellery & Gems"
+        }
+      ]
+    },
+    {
+      "category_id": "20",
+      "category_name": "Business & Industrial",
+      "image": "icn_business-sale.gif",
+      "status": "0",
+      "sub_category_image": "industrialbanner.jpg",
+      "sub_category": [
+       
+        {
+          "sub_category_id": "146",
+          "sub_category_name": "Healthcare & Life Sciences",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "147",
+          "sub_category_name": "Manufacturing & Metalworking",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "148",
+          "sub_category_name": "MRO & Industrial Supply",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "176",
+          "sub_category_name": "Heavy Equipments",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "178",
+          "sub_category_name": "Agricultural",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "175",
+          "sub_category_name": "Automotive",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "174",
+          "sub_category_name": "Construction",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "149",
+          "sub_category_name": "Electrical & Test Equipments",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "173",
+          "sub_category_name": "Fuel & Energy",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "177",
+          "sub_category_name": "Restaurant & Catering",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "108",
+          "sub_category_name": "Businesses for Sale/Lease",
+                       "category_id": "20",
+                       "category_name": "Business & Industrial"
+        },
+        {
+          "sub_category_id": "179",
+          "sub_category_name": "Everything else",
+          "category_id": "20" ,
+          "category_name": "Business & Industrial"
+        }
+      ]
+    }
+  ]
+}
